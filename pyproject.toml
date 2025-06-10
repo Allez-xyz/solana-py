@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "solana"
-version = "0.36.6"
+version = "0.36.7"
 description = "Solana Python API"
 authors = [
     "Michael Huang <michaelhly@gmail.com>",
@@ -28,7 +28,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
-construct-typing = "^0.5.2"
+construct-typing = "^0.6.2"
 httpx = ">=0.23.0"
 typing-extensions = ">=4.2.0"
 websockets = ">=9.0,<=15.0.1"
